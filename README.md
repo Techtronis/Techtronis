@@ -1,5 +1,5 @@
 # Hello People
-I'm 17M, I like to code. I collect old nintendo consoles and apple products. I can speak French and English. I have an app, NESTracker, on [Apple Testflight](https://testflight.apple.com/join/wwep90dI). I'm also learning on how to make homebrew for the Nintendo Switch and currently trying to port my app on the Switch.
+I'm 17, I like to code. I collect old nintendo consoles and apple products. I can speak French and English. I have an app, NESTracker, on [Apple Testflight](https://testflight.apple.com/join/wwep90dI). I'm also learning on how to make homebrew for the Nintendo Switch and currently trying to port my app on the Switch.
 I know:
 - Swift
 - C/C++
